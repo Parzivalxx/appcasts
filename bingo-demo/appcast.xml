@@ -7,8 +7,7 @@
             <description>Minor updates and improvements.</description>
             <pubDate>Thu, 25 Apr 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/apps/test/com.parallelchainlab.bingo_demo/2" sparkle:version="1.0.1" sparkle:os="android"/>
-            <!-- include line below to force update for lower versions-->
-            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> <!-- add this line to force update lower versions -->
         </item>
     </channel>
 </rss>
